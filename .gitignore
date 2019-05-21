@@ -1,0 +1,14 @@
+
+\.idea/
+
+Logs/
+
+Library/
+
+Temp/
+
+ParticleSwarmVisualization\.sln
+
+*.csproj
+
+obj/
